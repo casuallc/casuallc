@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a java engineer, living in ShenZhen.
+
+2022 Task List
+
+- [ ] RocketMQ On Pulsar 原理解析。
+- [ ] RabbitMQ On Pulsar 原理解析。 
+- [ ] Pulsar 负载均衡策略研究。
+- [ ] k8s 技术研究。
+- [ ] docker 技术研究。
+- [ ] 学习 Go 编程开发。
