@@ -32,6 +32,6 @@ I am a java engineer, living in ShenZhen.
 **k8s 技术研究**。
 
 **docker 技术研究**
-- [ ] 写一个docker-compose.xml的配置
+- [x] 写一个docker-compose.xml的配置
 
 **学习 Go 编程开发**
